@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-20",
+  "notes": "Primera versión de Snake Tik\nIA que llena el tablero sola, con rescate anti-bucle\nRegalos: manzanas, manzanas doradas, bombas y airdrop de 500 manzanas\n7 pistas, 6 animales y colores\nSonidos de teclas mecánicas y efectos\n6 idiomas",
+  "url": "https://github.com/cristiancordova1207/Snake-Tik---Releases/raw/main/Snake-Tik.exe"
+}
