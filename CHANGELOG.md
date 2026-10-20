@@ -1,5 +1,11 @@
 # Snake Tik · novedades
 
+## v1.0.1 · 2026-10-20
+
+- Se instala solo: accesos directos en el escritorio y en el menú Inicio
+- Aparece en Aplicaciones instaladas para desinstalarlo
+- Mejoras en la demo y en el juego
+
 ## v1.0.0 · 2026-10-20
 
 - Primera versión de Snake Tik
