@@ -1,6 +1,6 @@
 # Snake Tik · descargas
 
-**Última versión: v1.0.5** (2026-10-21)
+**Última versión: v1.0.6** (2026-10-21)
 
 [⬇️ Descargar Snake-Tik.exe](https://github.com/cristiancordova1207/Snake-Tik---Releases/raw/main/Snake-Tik.exe)
 

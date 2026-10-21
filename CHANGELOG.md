@@ -1,5 +1,9 @@
 # Snake Tik · novedades
 
+## v1.0.6 · 2026-10-21
+
+- Planes traducidos a todos los idiomas. Nuevo botón 'Solicitar prueba de acceso' (abre el canal de tickets de Discord). Aviso cuando termina la prueba gratuita. Máximo 2 cuentas por dispositivo.
+
 ## v1.0.5 · 2026-10-21
 
 - Nuevos botones en el panel: Pausar / Reanudar la partida y Volver al inicio (reinicia y vuelve a mostrar la pantalla de Start).
