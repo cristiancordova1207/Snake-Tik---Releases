@@ -1,5 +1,9 @@
 # Snake Tik · novedades
 
+## v1.0.2 · 2026-10-20
+
+- Las bombas ahora se comen (-1). Si llega a 0 pierde. Las bombas que no caben pasan a la siguiente partida. Botón Start al abrir. Nuevo dragón, cola en pico, nuevo gusano y oruga. Botón para reiniciar partidas y muertes. Opción 'La serpiente nunca pierde'.
+
 ## v1.0.1 · 2026-10-20
 
 - Se instala solo: accesos directos en el escritorio y en el menú Inicio

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-10-20",
-  "notes": "Se instala solo: accesos directos en el escritorio y en el menú Inicio\nAparece en Aplicaciones instaladas para desinstalarlo\nMejoras en la demo y en el juego",
+  "notes": "Las bombas ahora se comen (-1). Si llega a 0 pierde. Las bombas que no caben pasan a la siguiente partida. Botón Start al abrir. Nuevo dragón, cola en pico, nuevo gusano y oruga. Botón para reiniciar partidas y muertes. Opción 'La serpiente nunca pierde'.",
   "url": "https://github.com/cristiancordova1207/Snake-Tik---Releases/raw/main/Snake-Tik.exe"
 }
