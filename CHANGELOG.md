@@ -1,5 +1,9 @@
 # Snake Tik · novedades
 
+## v1.0.5 · 2026-10-21
+
+- Nuevos botones en el panel: Pausar / Reanudar la partida y Volver al inicio (reinicia y vuelve a mostrar la pantalla de Start).
+
 ## v1.0.4 · 2026-10-21
 
 - Ya no aparecen cuadros morados: las casillas a las que la serpiente no puede llegar se quedan vacías y cuentan como completadas. Nueva opción 'Rellenar huecos con bloques' (apagada por defecto). La serpiente con hambre ya se come las bombas aunque sea corta.
