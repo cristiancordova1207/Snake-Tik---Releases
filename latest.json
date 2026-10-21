@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "date": "2026-10-20",
-  "notes": "Arreglados los bloques morados que aparecían en el tablero. Ahora puedes quitar el título del juego y mover con el ratón el título, el marcador, las flechas, la barra, el tablero y Discord. Si la serpiente se encierra con su cuello, se da la vuelta.",
+  "version": "1.0.4",
+  "date": "2026-10-21",
+  "notes": "Ya no aparecen cuadros morados: las casillas a las que la serpiente no puede llegar se quedan vacías y cuentan como completadas. Nueva opción 'Rellenar huecos con bloques' (apagada por defecto). La serpiente con hambre ya se come las bombas aunque sea corta.",
   "url": "https://github.com/cristiancordova1207/Snake-Tik---Releases/raw/main/Snake-Tik.exe"
 }
