@@ -1,5 +1,11 @@
 # Snake Tik · novedades
 
+## v1.0.7 · 2026-10-23
+
+- Avisos de regalos movibles: arrástralos en la ventana del juego y cambia su tamaño en Apariencia.
+- Nuevo: reglas por follow (por ejemplo, cada seguidor nuevo = 10 bombas).
+- Nuevo: overlays para TikTok LIVE Studio con lo que da cada regalo (solo regalos, likes y follows, o todo junto), con vista previa en la sección de Regalos.
+
 ## v1.0.6 · 2026-10-21
 
 - Planes traducidos a todos los idiomas. Nuevo botón 'Solicitar prueba de acceso' (abre el canal de tickets de Discord). Aviso cuando termina la prueba gratuita. Máximo 2 cuentas por dispositivo.
