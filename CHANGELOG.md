@@ -1,5 +1,12 @@
 # Snake Tik · novedades
 
+## v1.0.8 · 2026-10-25
+
+- Corregido: el programa no abría en la 1.0.7 (error 'No package metadata was found for betterproto').
+- Avisos de regalos movibles: arrástralos en la ventana del juego y cambia su tamaño en Apariencia.
+- Nuevo: reglas por follow (por ejemplo, cada seguidor nuevo = 10 bombas).
+- Nuevo: overlays para TikTok LIVE Studio con lo que da cada regalo (solo regalos, likes y follows, o todo junto) con vista previa en la sección de Regalos.
+
 ## v1.0.7 · 2026-10-23
 
 - Avisos de regalos movibles: arrástralos en la ventana del juego y cambia su tamaño en Apariencia.
