@@ -1,5 +1,9 @@
 # Snake Tik · novedades
 
+## v1.0.9 · 2026-10-25
+
+- Corregido: el botón Actualizar ya instala la nueva versión y vuelve a abrir el programa (antes se cerraba sin actualizar).
+
 ## v1.0.8 · 2026-10-25
 
 - Corregido: el programa no abría en la 1.0.7 (error 'No package metadata was found for betterproto').
