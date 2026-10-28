@@ -1,5 +1,9 @@
 # Snake Tik · novedades
 
+## v1.0.10 · 2026-10-27
+
+- Nuevo: barra de progreso al actualizar el programa.
+
 ## v1.0.9 · 2026-10-25
 
 - Corregido: el botón Actualizar ya instala la nueva versión y vuelve a abrir el programa (antes se cerraba sin actualizar).
